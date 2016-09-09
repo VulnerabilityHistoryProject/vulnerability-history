@@ -1,0 +1,2 @@
+class SourceFile < ApplicationRecord
+end
