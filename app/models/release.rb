@@ -1,0 +1,2 @@
+class Release < ApplicationRecord
+end
