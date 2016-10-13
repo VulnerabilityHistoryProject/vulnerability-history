@@ -1,0 +1,2 @@
+class CodeReview < ApplicationRecord
+end
