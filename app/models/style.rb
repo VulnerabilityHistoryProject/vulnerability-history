@@ -1,0 +1,3 @@
+class Style < ApplicationRecord
+
+end
