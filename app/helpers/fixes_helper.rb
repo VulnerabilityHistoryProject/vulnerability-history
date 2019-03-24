@@ -1,2 +1,0 @@
-module FixesHelper
-end

@@ -11,3 +11,5 @@ Here was the commit message.
 <blockquote>
 :description:
 </blockquote>
+
+[Learn more about this commit](/commits/:commit_hash:)
